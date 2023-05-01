@@ -19,9 +19,17 @@ Open the project in your editor or terminal of choice
 
 Navigate to .../COSC4220_final/game_maybe/
 
-run the command flutter pub get to resolve all dependencies 
+run the command 
 
-run tthe command flutter run to play the game
+flutter pub get 
+
+to resolve all dependencies 
+
+run tthe command 
+
+flutter run 
+
+to play the game
 
 # Game Instructions
 
